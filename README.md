@@ -3,7 +3,7 @@
 > Groupe : Xinhao Zhang, Kexin Gui, Sandra Jagodzinska, Léna Gaubert
 
 Il s'agit du projet d'évaluation d'annotateurs automatiques réalisé lors du cours *Enrichissement de corpus* donné par Iris Taravella en M1 TAL à Paris Nanterre (2022-2023). 
-On a évalué ici trois annotateurs différents : Spacy (module de Python
+On a évalué ici trois annotateurs différents : Spacy (module de Python), Treetagger et SEM.
 
 - `data` : dossier contenant tous les fichiers .csv avec les données des différents annotateurs, ainsi que les golds obtenus pour chacun d'entre eux.
 	- format nom : `annotateur_output.csv` et `annotateur_output_gold.csv`
